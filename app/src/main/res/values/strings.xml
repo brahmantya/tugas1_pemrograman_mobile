@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">konversi mata uang</string>
+    <string name="rp_euro"><![CDATA[Rp > Euro]]></string>
+    <string name="rp_yen"><![CDATA[Rp > YEN]]></string>
+    <string name="rp_usd"><![CDATA[Rp > USD]]></string>
+    <string name="hasil_konversi">Hasil Konversi</string>
+    <string name="samadengan">=</string>
+    <string name="_0_rupiah">0 Rupiah</string>
+    <string name="todo">TODO</string>
+</resources>
